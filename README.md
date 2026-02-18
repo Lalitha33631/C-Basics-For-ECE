@@ -1,2 +1,7 @@
 # C-Basics-For-ECE
-Beginner C Programs for logic buliding
+This repository contains beginner C programs.
+##Programs Included:
+-hello World
+-(More coming soon)
+
+Learning journey towards VLSI and Embedded Systems
